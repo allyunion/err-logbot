@@ -1,0 +1,7 @@
+[Core]
+Name = Logbot
+Module = logbot
+    
+[Documentation]
+Description = An Err plugin that can do logging to a MySQL or syslog
+
